@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Unleash The Beast Fitness</string>
+    <string name="enter_user_name_here">Enter user name here</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="unleash_todo">TODO</string>
+    <string name="biceps_todo">TODO</string>
+    <string name="cardio_todo">TODO</string>
+    <string name="chest_todo">TODO</string>
+    <string name="core_todo">TODO</string>
+    <string name="home_btn">Home</string>
+    <string name="about_btn">About</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="about_content">We are unleashthebeast.com - Your transformation is our passion. We are your personal
+        trainer, your nutritionist, your supplement expert, your lifting partner, your support group. We provide the
+        technology, tools, and products you need to burn fat, build muscle, and become your best self. At
+        unleashthebeast.com we provide the blueprint to simple healthy living. Our mission is to empower anyone at any
+        age or stage in their fitness journey with the information and tools that will help them to make better choices
+        – even just one small better choice can motivate them and improve their potential to truly thrive.
+    </string>
+    <string name="name">Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="new_user_password">Password</string>
+    <string name="about_todo">TODO</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+</resources>
